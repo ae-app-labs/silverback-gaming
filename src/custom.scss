@@ -1,0 +1,19 @@
+// -------
+// Effects
+// -------
+.grow-effect { overflow: hidden;}
+.grow-effect img { display: block; transition: transform .4s; }
+.grow-effect:hover img { transform: scale(1.1); transform-origin: 50% 50%; }
+
+.about-sb{
+    background: url('/img/site/about_bg.png') no-repeat;
+    background-size: cover;
+}
+
+.play-overlay{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
