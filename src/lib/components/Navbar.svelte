@@ -94,8 +94,8 @@
   
       <div class="navbar-end mt-6" style="max-height:2em;">
           <a class="navbar-item" href="/">Home</a>
-          <a class="navbar-item" href="#featured">Featured</a>
-          <a class="navbar-item" href="#contact">Contact</a>
+          <a class="navbar-item" href="/">Featured</a>
+          <a class="navbar-item" href="/">Contact</a>
       </div>
 
 </div> <!-- end container -->
