@@ -29,17 +29,17 @@
     <div class="columns">
       <div class="column is-one-third">
         <BannerCard 
-          imageUrl={"/img/covers/game1.jfif"} 
+          imageUrl={"img/covers/game1.jfif"} 
           description={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris."} />
       </div>
       <div class="column is-one-third">
         <BannerCard 
-        imageUrl={"/img/covers/game2.jfif"} 
+        imageUrl={"img/covers/game2.jfif"} 
         description={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris."} />
       </div>
       <div class="column is-one-third">
         <BannerCard 
-        imageUrl={"/img/covers/game3.jfif"} 
+        imageUrl={"img/covers/game3.jfif"} 
         description={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris."} />
       </div>
     </div>
@@ -52,7 +52,7 @@
     <div class="columns">
       <div class="column is-half">
         <VideoCard 
-          thumbnailUrl={"/img/thumbnails/video_thumbnail_01.png"} 
+          thumbnailUrl={"img/thumbnails/video_thumbnail_01.png"} 
           videoTitle={"Assassin's Creed Video Name"}
           videoDescription={"Some description for the embedded title Aassassin’s Creed Video Name"}
           videoUrl={"https://github.com/ae-app-labs/ae-app-labs.github.io/tree/main"}
@@ -60,7 +60,7 @@
       </div>
       <div class="column is-half">
         <VideoCard 
-          thumbnailUrl={"/img/thumbnails/video_thumbnail_02.png"} 
+          thumbnailUrl={"img/thumbnails/video_thumbnail_02.png"} 
           videoTitle={"Assassin's Creed Video Name"}
           videoDescription={"Some description for the embedded title Aassassin’s Creed Video Name"}
           videoUrl={"https://github.com/ae-app-labs/ae-app-labs.github.io/tree/main"}
